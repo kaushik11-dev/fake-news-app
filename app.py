@@ -42,7 +42,7 @@ def add_bg_from_local(image_file):
     st.markdown(page_bg, unsafe_allow_html=True)
 
 # Apply your local background image
-add_bg_from_local("d1.jpg")
+add_bg_from_local("bg.jpg")
 
 # -----------------------
 # Text cleaning function
